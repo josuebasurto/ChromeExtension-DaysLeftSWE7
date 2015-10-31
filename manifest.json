@@ -1,11 +1,29 @@
 {
-  "name": "SW Days left",
-  "manifest_version":2,
-  "version":"1.0",
+  "name": "Days left for Star Wars: Episode VII",
+  "description": "Chrome extension that tells you to know how many days left for Star Wars: Episode VII",
+  "manifest_version": 2,
+  "version": "1.0",
   "browser_action": {
     "default_icon": {
-      "19": "images/darth_vader_icon_original.png"
+      "19": "images/darth_vader_icon_48.png",
+      "38": "images/darth_vader_icon_48.png"
+    },
+    "icons": {
+      "16": "images/darth_vader_icon_16.png",
+      "48": "images/darth_vader_icon_48.png",
+      "128": "images/darth_vader_icon_128.png"
     },
     "default_title": "SW Days left"
-  }
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "alarms",
+    "background",
+    "idle",
+    "notifications"
+  ]
 }
