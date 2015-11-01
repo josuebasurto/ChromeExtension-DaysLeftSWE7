@@ -2,7 +2,8 @@
 
 Chrome extension that tells you to know how many days left for Star Wars: Episode VII
 
-[Check it out!](https://goo.gl/9uVYJN)
+* [Check it out!](https://goo.gl/9uVYJN)
+* [Issues](https://goo.gl/q2NUzs)
 
 ![Notifications](https://lh3.googleusercontent.com/DqGgmSTzQgQFA9JUQbBeXfAKDsCtswWJdnGiGI0wdjfDqtjiGmYaiJfiltk44dVNnFk_ovcxxnM=s640-h400-e365-rw)
 
