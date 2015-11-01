@@ -8,7 +8,7 @@ Chrome extension that tells you to know how many days left for Star Wars: Episod
 
 # How to Download for Developers
 
-* Checkout `git clone https://github.com/josuebasurto/days-left-swe7-chrome-ext`
+* Checkout `git clone https://github.com/josuebasurto/ChromeExtension-DaysLeftSWE7`
 * Open Chrome 
 * Open extensions tab `chrome://extensions/`
 * Activate `Developer Mode`
