@@ -24,3 +24,7 @@ Chrome extension that tells you to know how many days left for Star Wars: Episod
 ## v1.1, v1.0
 * When user installs displays days left for Star Wars: Episode VII in notification
 * When user clicks icon displays days left for Star Wars: Episode VII in notification
+
+---
+
+> "Do. Or do not. There is no try." - Yoda
